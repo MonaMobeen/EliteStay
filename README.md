@@ -163,7 +163,11 @@ Watch this step-by-step video guide to learn how to book a room effortlessly on 
 ✅ Completing the reservation process  
 ✅ Viewing the booking confirmation  
 
-📺 **Watch the full video here**: [YouTube Link]  
+📺 **Watch the full video here**: 
 
-💡 Have questions? Feel free to open an issue or comment on the video!  
+ 
+
+https://github.com/user-attachments/assets/e69f57aa-e0e9-4739-905d-8bf0f20f998b
+
+
 
