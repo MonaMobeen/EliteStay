@@ -152,4 +152,18 @@ Click **"Create Room"** to add the new room to the database.
 
  
 ![10](https://github.com/user-attachments/assets/a382e916-567c-4320-b8b4-ac278496e517)
- 
+ ## 🎥 Video Guide – How to Book a Room in EliteStay  
+
+Watch this step-by-step video guide to learn how to book a room effortlessly on **EliteStay**.  
+
+### 📌 What You'll Learn  
+✅ Browsing available rooms  
+✅ Selecting a room based on price, size, and features  
+✅ Filling in booking details  
+✅ Completing the reservation process  
+✅ Viewing the booking confirmation  
+
+📺 **Watch the full video here**: [YouTube Link]  
+
+💡 Have questions? Feel free to open an issue or comment on the video!  
+
