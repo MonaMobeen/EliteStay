@@ -109,43 +109,47 @@ We look forward to hosting you! 🏨✨
 | 🏨 Room Type       | 👤 Guest Name                | 📅 Booking Date  |
 |-------------------|----------------------------|----------------|
 | Deluxe Suite     | Mona Ali                   | 2/4/2025       |
-| Family Suite     | Aneeqa Ali                 | 2/4/2025       |
-| Family Suite     | Saad Ali                   | 2/4/2025       |
-| Deluxe Suite     | Mona Sharma                | 2/5/2025       |
-| Double Basic     | Memoona Mobeen             | 2/5/2025       |
-| Presidential     | Isha Nadeem                | 2/5/2025       |
-| Family Deluxe    | Zain Mustaqeem             | 2/5/2025       |
-| Single Deluxe    | Abiha Noor                 | 2/5/2025       |
-| Deluxe Suite     | Mona Sharma                | 2/5/2025       |
-| Deluxe Suite     | Mona Sharma                | 2/7/2025       |
-| Single Economy   | ak ak                      | 2/7/2025       |
-| Deluxe Suite     | ak ak                      | 2/7/2025       |
-| Presidential     | President PTI              | 2/7/2025       |
-| Presidential     | Memoona Mobeen             | 2/7/2025       |
-| Double Deluxe    | Memoona Mobeen             | 2/8/2025       |
-| Single Economy   | hhh hhh                    | 2/8/2025       |
-| Double Standard  | Testing Employee           | 2/8/2025       |
-| Single Deluxe    | Fasjfhasd Jsadhfjsd        | 2/8/2025       |
-| Family Standard  | Ahmas Abbas                | 2/10/2025      |
-| Single Standard  | Memoona Mobeen             | 2/10/2025      |
-| Family Standard  | Saad Mobeen                | 2/12/2025      |
-| Single Deluxe    | Ahmed Khan                 | 2/12/2025      |
-| Family Basic     | Hamza Syed                 | 2/12/2025      |
-| Double Economy   | Sara Rehman                | 2/12/2025      |
-| Presidential     | Amina Javed                | 2/12/2025      |
-| Family Standard  | Ibrahim Chaudhry           | 2/12/2025      |
-| Double Basic     | Khadija Iqbal              | 2/12/2025      |
-| Family Basic     | Sadia Mobeen               | 2/13/2025      |
-| Double Standard  | Memoona Mobeen             | 2/15/2025      |
-| Single Basic     | Memoona Mobeen             | 2/15/2025      |
-
- 
-
-
-
+...so on
  ![8](https://github.com/user-attachments/assets/830546f4-951c-4d24-a86f-3a0acdcc22d7)
 
+## 🏨 Create a New Room  
+
+Easily add a new room to our **EliteStay** hotel booking system by filling out the form below.  
+
+### 📝 Room Details  
+- **Room Name**: Specify the room type (e.g., Deluxe Suite, Family Room).  
+- **Room Description**: Provide a brief description of the room.  
+- **Capacity**: Maximum number of guests allowed.  
+- **Size (sq ft)**: Room area in square feet.  
+- **Price ($)**: Cost per night.  
+- **Extras**: Additional amenities (comma-separated).  
+- **Free Breakfast**: Select if the room includes breakfast.  
+- **Pets Allowed**: Specify if pets are permitted.  
+- **Image URL**: Link to an image of the room.  
+
+### 🚀 Action  
+Click **"Create Room"** to add the new room to the database.  
+
+
+
  ![9](https://github.com/user-attachments/assets/e3d84851-1ecd-4f60-a435-f3d01ad74af8)
+## ✅ Booking Successful  
+
+🎉 Thank you for choosing **EliteStay**! Your reservation has been successfully confirmed.  
+
+### 📄 Booking Details  
+- **Room Type**: Single Basic (or selected room type)  
+- **Price**: $150 per night (or selected room price)  
+- **Check-in Date**: [Your selected date]  
+- **Check-out Date**: [Your selected date]  
+
+### 📢 What's Next?  
+- You will receive a confirmation email with your booking details.  
+- For any modifications or cancellations, visit **"My Bookings"** in your profile.  
+- Enjoy our luxurious amenities and top-notch hospitality.  
+
+🏨 **EliteStay – Where Comfort Meets Luxury!**  
+
  
 ![10](https://github.com/user-attachments/assets/a382e916-567c-4320-b8b4-ac278496e517)
  
