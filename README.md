@@ -76,9 +76,72 @@ EliteStay is a premium hotel booking platform designed for a seamless and luxuri
 
 ![5](https://github.com/user-attachments/assets/3a9b2465-cd11-42af-be7e-2bb0dd9f582f)
 
+## 🏨 Single Basic Room  
+
+🔙 **[Back to Rooms](#our-rooms)**  
+
+### 🛏️ Room Details  
+Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub.  
+
+Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.  
+
+### ℹ️ Info  
+- 💰 **Price:** $150 per night  
+- 📏 **Size:** 250 SQFT  
+- 👥 **Max Capacity:** 1 person  
+- 🚫 **Pets:** Not allowed  
+
+
 ![6](https://github.com/user-attachments/assets/6cf6d12d-68d9-4bab-8756-64f94a869743)
 
+## ✅ Success!  
+
+🎉 **Thank you for your reservation!**  
+
+Your booking has been **confirmed** for **Single Basic**.  
+
+We look forward to hosting you! 🏨✨  
+
+
  ![7](https://github.com/user-attachments/assets/f652fcdc-3b59-4939-bd64-4ecb1283bade)
+## 📋 All Booked Rooms  
+
+| 🏨 Room Type       | 👤 Guest Name                | 📅 Booking Date  |
+|-------------------|----------------------------|----------------|
+| Deluxe Suite     | Mona Ali                   | 2/4/2025       |
+| Family Suite     | Aneeqa Ali                 | 2/4/2025       |
+| Family Suite     | Saad Ali                   | 2/4/2025       |
+| Deluxe Suite     | Mona Sharma                | 2/5/2025       |
+| Double Basic     | Memoona Mobeen             | 2/5/2025       |
+| Presidential     | Isha Nadeem                | 2/5/2025       |
+| Family Deluxe    | Zain Mustaqeem             | 2/5/2025       |
+| Single Deluxe    | Abiha Noor                 | 2/5/2025       |
+| Deluxe Suite     | Mona Sharma                | 2/5/2025       |
+| Deluxe Suite     | Mona Sharma                | 2/7/2025       |
+| Single Economy   | ak ak                      | 2/7/2025       |
+| Deluxe Suite     | ak ak                      | 2/7/2025       |
+| Presidential     | President PTI              | 2/7/2025       |
+| Presidential     | Memoona Mobeen             | 2/7/2025       |
+| Double Deluxe    | Memoona Mobeen             | 2/8/2025       |
+| Single Economy   | hhh hhh                    | 2/8/2025       |
+| Double Standard  | Testing Employee           | 2/8/2025       |
+| Single Deluxe    | Fasjfhasd Jsadhfjsd        | 2/8/2025       |
+| Family Standard  | Ahmas Abbas                | 2/10/2025      |
+| Single Standard  | Memoona Mobeen             | 2/10/2025      |
+| Family Standard  | Saad Mobeen                | 2/12/2025      |
+| Single Deluxe    | Ahmed Khan                 | 2/12/2025      |
+| Family Basic     | Hamza Syed                 | 2/12/2025      |
+| Double Economy   | Sara Rehman                | 2/12/2025      |
+| Presidential     | Amina Javed                | 2/12/2025      |
+| Family Standard  | Ibrahim Chaudhry           | 2/12/2025      |
+| Double Basic     | Khadija Iqbal              | 2/12/2025      |
+| Family Basic     | Sadia Mobeen               | 2/13/2025      |
+| Double Standard  | Memoona Mobeen             | 2/15/2025      |
+| Single Basic     | Memoona Mobeen             | 2/15/2025      |
+
+ 
+
+
 
  ![8](https://github.com/user-attachments/assets/830546f4-951c-4d24-a86f-3a0acdcc22d7)
 
