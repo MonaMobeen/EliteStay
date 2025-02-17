@@ -1,4 +1,4 @@
-<h1 align="center">🌟 EliteStay – Luxury Resort Booking</h1>
+<h1 align="center">🌟 EliteStay – Luxury Hotel Booking</h1>
 
 <p align="center">
 EliteStay is a full-stack hotel booking platform built using MERN Stack (MongoDB, Express.js, React.js, and Node.js), a premium hotel booking platform designed for a seamless and luxurious reservation experience. Easily browse and book <strong>deluxe rooms</strong>, explore <strong>exclusive services</strong>, and indulge in the comfort of a <strong>world-class resort</strong>.
