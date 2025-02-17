@@ -11,7 +11,7 @@ EliteStay is a premium hotel booking platform designed for a seamless and luxuri
 - 📖 **All Bookings** –  
   - Users can view their booked rooms.  
   - Admins have access to all bookings.  
-- 🏗️ **Room Creation** – Admins can add and manage rooms.  
+- 🏗️ **Room Creation** – Admins can add, manage & set prices for the rooms.  
 - 👥 **Admin & User Roles** –  
   - **Users**: Book and manage their reservations.  
   - **Admins**: Manage bookings and add rooms.  
